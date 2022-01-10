@@ -49,7 +49,9 @@ page = read_html(link)
 plate.dicp.html = html_nodes(page, '#playeDiscipline')
 plate.discp = html_table(plate.dicp.html)
 
-### With the way that the html_table() function works, we need to decalare which object in our group of 4 is actually our data in the form we want it. In this case it was the first one, denoted by the double brackets [[]].
+### With the way that the html_table() function works, we need 
+to decalare which object in our group of 4 is actually our data in the 
+form we want it. In this case it was the first one, denoted by the double brackets [[]].
 
 View(plate.discp[[1]])
 
@@ -79,7 +81,8 @@ Plot1 <- ggplot(plate_discipline_2021, aes(x= `Zone %`, y= `Zone Contact %`, col
   
   theme_bw()+
   
-  ### geom_text_repel is a really clever tool for plotting I learned in school. It makes the labels on the points find somewhere to be withput overlapping the other labels
+  ### geom_text_repel is a really clever tool for plotting I learned in school. 
+  It makes the labels on the points find somewhere to be withput overlapping the other labels
   
   geom_text_repel(aes(label=`Team`))
 
