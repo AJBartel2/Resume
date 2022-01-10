@@ -22,7 +22,7 @@ I am a Graduate of both Mathematics and Economics who is on a mission to interog
 
 - **R-Studio**
 
-Most of my coding experience comes within R Studio, but I have experience in Python, Mathematica, SPSS, Matlab, and some exposure to SQL. Because R is my strong suite, I've included a small project where I take data from a webpage, format it for my use, and plot a simple graph of two variables. If that summary was enough for you, go ahead a scroll down to read one last thing I have to add. If you want to keep reading, here's the project!
+Most of my coding experience comes within R Studio, but I have experience in Python, Mathematica, SPSS, Matlab, and some exposure to SQL. Because R is my strong suite, I've included a small project where I take data from a webpage, format it for my use, and plot a simple graph of two variables. If that summary was enough for you, go ahead and scroll down to read one last thing I have to add. If you want to keep reading, here's the project!
 
 
 I first started by scraping a webpage for the data I wanted to use, and then saved the data as a .csv so I could access it later. If you'd like to run this code for yourself, the .csv is included in this repository and linked right [here](https://github.com/AJBartel2/Resume/blob/gh-pages/plate_discipline_2021.csv). 
