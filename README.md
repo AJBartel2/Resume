@@ -22,7 +22,7 @@ I am a Graduate of both Mathematics and Economics who is on a mission to interog
 
 - **R-Studio**
 
-Most of my coding experience comes within R Studio, but I have experience in Python, Mathematica, SPSS, Matlab, and some exposure to SQL. Because R is my strong suite, I've included a small project where I take data from a webpage, format it for my use, and plot a simple graph of two variables. If that summary was enough for you, go ahead and scroll down to read one last thing I have to add. If you want to keep reading, here's the project!
+Most of my coding experience comes within R Studio, but I have experience in Python, Mathematica, SPSS, Matlab, and some exposure to SQL. Because R is my strong suit, I've included a small project where I take data from a webpage, format it for my use, and plot a simple graph of two variables. If that summary was enough for you, go ahead and scroll down to read one last thing I have to add. If you want to keep reading, here's the project!
 
 
 I first started by scraping a webpage for the data I wanted to use, and then saved the data as a .csv so I could access it later. If you'd like to run this code for yourself, the .csv is included in this repository and linked right [here](https://github.com/AJBartel2/Resume/blob/gh-pages/plate_discipline_2021.csv). 
@@ -105,7 +105,7 @@ For my capstone project in Economics, I presented on Income Distribution and Ine
 
 # If you've made it this far...
 
-Thank you for reading! Now that I have talked about my background, I'd like to add two things about why I enjoy data and how it is important to me from a career standpoint. This is a bit unconventinal to the typical resume, however I think it is important to add considering I have just graduated college. Presented in list form, here it is:
+Thank you for reading! Now that I have talked about my background, I'd like to add two things about why I enjoy data and how it is important to me from a career standpoint. This is a bit unconventional to the typical resume, however I think it is important to add considering I have just graduated college. Presented in list form, here it is:
 
 - **Keep Learning**:
     The most enjoyable part of writing code and exploring the realm of Data Analytics is that I learn so much every day. There is more than one way to solve a Rubix Cube, and the small things I pick up from others in Data Analytics encourage me to try new things in my own work. 
