@@ -28,7 +28,7 @@ Most of my coding experience comes within R Studio, but I have experience in Pyt
 I first started by scraping a webpage for the data I wanted to use, and then saved the data as a .csv so I could access it later. If you'd like to run this code for yourself, the .csv is included in this repository and linked right [here](https://github.com/AJBartel2/Resume/blob/gh-pages/plate_discipline_2021.csv). 
 
 ``` 
-### A couble of these packages we use futher down in the code for plotting
+### A couple of these packages we use futher down in the code for plotting
 
 install.packages("rvest")
 install.packages("dplyr")
