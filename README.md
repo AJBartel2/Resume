@@ -16,7 +16,7 @@ I am a Graduate of both Mathematics and Economics who is on a mission to interog
 - Club Baseball President - Western Colorado University // May 2019 ~ May 2021
 - College Financial Representative - Northwestern Mutual // May 2020 ~ Dec 2020
 - Crew Member - Timeless Landscape // Aug 2019 ~ May 2019
-- Irrigation Technition - Turf Paradise // June 2016 ~ Aug 2019
+- Irrigation Techician - Turf Paradise // June 2016 ~ Aug 2019
 
 # Code
 
@@ -82,7 +82,7 @@ Plot1 <- ggplot(plate_discipline_2021, aes(x= `Zone %`, y= `Zone Contact %`, col
   theme_bw()+
   
   ### geom_text_repel is a really clever tool for plotting I learned in school. 
-  It makes the labels on the points find somewhere to be withput overlapping the other labels
+  It makes the labels on the points find somewhere to be without overlapping the other labels
   
   geom_text_repel(aes(label=`Team`))
 
